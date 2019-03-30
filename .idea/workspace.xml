@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="358c8540-45eb-466a-a039-3971d4ca13a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../京东35/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作品/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作品/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作品/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作品/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/award.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner-ad1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner-ad2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner-ad3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner-ad4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner-ad5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner-ad6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner-loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content-loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/CDKW.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/CDKW1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/CDKW2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/CDKW3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/CDKW4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/CDKW5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/CDKW6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/CDKW7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/CDKW8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/DZAC.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/DZAC1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/DZAC10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/DZAC2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/DZAC3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/DZAC4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/DZAC5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/DZAC6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/DZAC7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/DZAC8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/DZAC9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/HWCX.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/HWCX10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/HWCX2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/HWCX3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/HWCX4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/HWCX5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/HWCX6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/HWCX7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/HWCX8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/HWCX9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/JJSH.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/JJSH1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/JJSH2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/JJSH3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/JJSH4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/JJSH5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/JJSH6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/JJSH7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/JJSH8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/JJSH9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/MLRS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/MLRS1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/MLRS2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/MLRS3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/MLRS4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/MLRS5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/MLRS6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/MLRS7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/MLRS8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/MLRS9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QJ1-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QJ1-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QJ1-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QJ1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QJ2-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QJ2-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QJ2-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QJ2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QJ3-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QJ3-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QJ3-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QJ3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QJ4-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QJ4-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QJ4-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QJ4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QZSG.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QZSG1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QZSG2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QZSG3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QZSG4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QZSG5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QZSG6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QZSG7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QZSG8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/QZSG9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/ad1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/ad2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/ad3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/brand.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/brand1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/brand10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/brand11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/brand12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/brand2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/brand3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/brand4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/brand5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/brand6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/brand7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/brand8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/brand9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/channel1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/channel10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/channel2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/channel3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/channel4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/channel5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/channel6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/channel7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/channel8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/channel9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/decoration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/floor/TB1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/floor/TB110u1LVXXXXXtapXXXXXXXXXX_0-item_pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/floor/TB1AIPzJFXXXXbZXVXXXXXXXXXX_0-item_pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/floor/TB1CSu0KFXXXXX7aXXXXXXXXXXX_0-item_pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/floor/TB1FN9sKXXXXXc8XXXXXXXXXXXX_0-item_pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/floor/TB1I1tiMpXXXXaSaXXX6EYqTVXX-490-740.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/floor/TB1Lp_xKpXXXXc9XFXXXXXXXXXX_0-item_pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/floor/TB1MsbxKVXXXXa5XFXXXXXXXXXX_0-item_pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/floor/TB1W05fLVXXXXccXVXXXXXXXXXX_0-item_pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/floor/TB1WhqlKXXXXXcoXFXXSutbFXXX.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/floor/TB1YjjfMXXXXXaMXXXXXXXXXXXX_0-item_pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/floor/TB1_004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/floor/TB1by_0JVXXXXb9XpXXXXXXXXXX_0-item_pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/floor/TB1g3C4JpXXXXb2XXXXXXXXXXXX_0-item_pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/floor/TB1lenpLVXXXXbfXpXXXXXXXXXX_0-item_pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/floor/TB1nweNIpXXXXcOXpXXXXXXXXXX_0-item_pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/floor/TB1pHFwKFXXXXbmXXXXXXXXXXXX_0-item_pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/floor/TB1r6M5LpXXXXaNXXXXSutbFXXX.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/floor/TB1udyCKpXXXXX9aXXXXXXXXXXX_0-item_pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/floor/TB1ztGvKVXXXXbpXFXXXXXXXXXX_0-item_pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/floor/TB2VXLuqFXXXXcxXXXXXXXXXXXX_1018189635.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/rec1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/rec2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/rec3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/content/rec4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/copyright1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/copyright2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/detail/barnd1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/detail/barnd10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/detail/barnd11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/detail/barnd12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/detail/barnd13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/detail/barnd14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/detail/barnd15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/detail/barnd16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/detail/barnd2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/detail/barnd3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/detail/barnd4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/detail/barnd5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/detail/barnd6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/detail/barnd7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/detail/barnd8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/detail/barnd9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ewm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favorite-end.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hover-pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/login-ewm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/login-help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/moblie-ewm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/privilege.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/recommend.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/slider-nav-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/slider-nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sn-qrcode-p.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sn-qrcode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/step.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/step_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tmall-desc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tmall-ensure.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tmall-ensure2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tmchaoshi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tmguoji.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vip-avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vip.png" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-537694657">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="gif" value="1" />
+          <entry key="html" value="2" />
+          <entry key="jpg" value="3" />
+          <entry key="js" value="1" />
+          <entry key="png" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="2" />
+          <entry key="Image" value="11" />
+          <entry key="JavaScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="6258" />
+          <entry key="html" value="2091" />
+          <entry key="js" value="2171" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="6258" />
+          <entry key="HTML" value="2091" />
+          <entry key="JavaScript" value="2171" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="4654" column="13" selection-start-line="4654" selection-start-column="13" selection-end-line="4654" selection-end-column="13" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ul#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ul#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ul#0;n#div#1;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ul#0;n#div#0;n#div#1;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ul#1;n#div#0;n#div#1;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ul#0;n#div#2;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#2;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ul#0;n#div#0;n#div#2;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ul#1;n#div#0;n#div#2;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#5;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#6;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#7;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#8;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#h3#0;n#div#8;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ul#0;n#div#8;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#8;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#8;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ul#0;n#div#0;n#div#8;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ul#1;n#div#0;n#div#8;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#9;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#li#0;n#ul#0;n#div#9;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#9;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#2;n#ul#0;n#li#0;n#ul#0;n#div#9;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#1;n#ul#0;n#div#9;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#2;n#ul#0;n#div#9;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#3;n#ul#0;n#div#9;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#10;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#11;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#p#0;n#div#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#p#1;n#div#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2625">
+              <caret line="105" selection-start-line="105" selection-end-line="105" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="725">
+              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/text.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nav-item-icon</find>
+      <find>data-</find>
+      <find>src=&quot;&quot; data-</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/text.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="3016" />
+    <option name="width" value="833" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="天猫" type="b2602c69:ProjectViewProjectNode" />
+              <item name="天猫" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../贪吃蛇" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\sublimeWork\天猫" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="358c8540-45eb-466a-a039-3971d4ca13a3" name="Default Changelist" comment="" />
+      <created>1546913061774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546913061774</updated>
+      <workItem from="1546913063354" duration="1351000" />
+      <workItem from="1553231259081" duration="27603000" />
+      <workItem from="1553322381574" duration="1157000" />
+      <workItem from="1553326710916" duration="22679000" />
+      <workItem from="1553498493305" duration="16012000" />
+      <workItem from="1553589294949" duration="84073000" />
+      <workItem from="1553826556201" duration="17078000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="169953000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.101685986" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32968238" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/img/sn-qrcode-p.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/sn-qrcode.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/banner1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/banner-loading.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/slider-nav.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/slider-nav-active.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/vip.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/content/ad2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/tmall-ensure.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/tmall-desc.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="4654" column="13" selection-start-line="4654" selection-start-column="13" selection-end-line="4654" selection-end-column="13" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#1;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#0;n#div#1;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#1;n#div#0;n#div#1;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#2;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#0;n#div#2;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#1;n#div#0;n#div#2;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#6;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#7;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#8;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#h3#0;n#div#8;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#8;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#8;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#8;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#0;n#div#8;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#1;n#div#0;n#div#8;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#9;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#li#0;n#ul#0;n#div#9;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#9;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#2;n#ul#0;n#li#0;n#ul#0;n#div#9;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#1;n#ul#0;n#div#9;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#2;n#ul#0;n#div#9;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#3;n#ul#0;n#div#9;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#10;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#11;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#p#0;n#div#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#p#1;n#div#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2625">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
